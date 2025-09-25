@@ -1,5 +1,5 @@
 ---
-rip: 8000
+rip: TBA
 title: MEVless Protocol
 description: A protocol that prevents MEV attacks by constraining transaction ordering through blind sequencing and two-phase block execution.
 author: Lawliet Chan (@lawliet-chan)
@@ -77,7 +77,7 @@ The MEVless protocol operates on a two-phase block system:
 6. Network publishes ordered transaction sequence as commitment
 7. Network stores transaction hashes in sequencing block
 
-![MEVless Protocol Flow](../assets/rip-8000/MEVless.png)
+![MEVless Protocol Flow](../assets/rip-TBA/MEVless.png)
 *MEVless Protocol Transaction Flow*
 
 #### Phase 2: Transaction Content Submission and Execution
